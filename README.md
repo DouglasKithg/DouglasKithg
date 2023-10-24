@@ -13,12 +13,6 @@ Meu nome é Douglas Kith. 🥇
 <!--
 **DouglasKithg/DouglasKithg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://media.tenor.com/9ItR8nSuxE0AAAAC/thumbs-up-computer.gif)
-
-
-
-
-
 
 Here are some ideas to get you started:
 
@@ -31,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media.tenor.com/9ItR8nSuxE0AAAAC/thumbs-up-computer.gif)
